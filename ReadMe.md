@@ -55,5 +55,9 @@ Udaicty의 프로그램을 따라가며 메모한 내용
 epoch에 따라 random vector가 hand-writting number로 변하는 결과.
 <img src="2018-11-13.png">
 
+## How to improve it
 
+* 여러 개의 hidden layer 시용하기
+* [Improved Techniques for Training GANs.](https://arxiv.org/pdf/1606.03498.pdf) 논문 참고
+* 3개 이상의 hidden layer를 batch nomalization 필수
 
